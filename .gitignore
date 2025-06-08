@@ -1,0 +1,52 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# MyPy & other type checker outputs
+.mypy_cache/
+
+# Pipenv
+Pipfile.lock
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage.xml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# dotenv
+.env
+.env.*
+
+# Gradio sessions
+gradio_cached_examples/
